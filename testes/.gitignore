@@ -1,0 +1,24 @@
+# Arquivos compilados
+test_runner
+test_runner.exe
+*.o
+*.obj
+*.exe
+
+# Arquivos de dados de teste
+quartos.dat
+clientes.bin
+estadias.bin
+funcionarios.bin
+
+# Build directories
+build/
+cmake-build-*/
+
+# Catch2 (se baixado)
+catch2/
+
+# Arquivos temporários
+*.tmp
+*.log
+
